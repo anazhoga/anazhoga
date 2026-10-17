@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**anazhoga/anazhoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm anazhoga
 
-Here are some ideas to get you started:
+Building small things on the web and experimenting with AI-assisted development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| [claude-code-testing](https://github.com/anazhoga/claude-code-testing) | Testing framework for Claude Code |
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anazhoga&show_icons=true&hide_border=true" alt="anazhoga's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anazhoga&layout=compact&hide_border=true" alt="anazhoga's top languages" />
+</p>
