@@ -13,6 +13,7 @@ Building small things on the web and experimenting with AI-assisted development.
 | Project | Description |
 |---------|-------------|
 | [claude-code-testing](https://github.com/anazhoga/claude-code-testing) | Testing framework for Claude Code |
+| [recipe-book](https://github.com/anazhoga/recipe-book) | Simple recipe book website: search and add recipes ([live](https://anazhoga.github.io/recipe-book/)) |
 
 ## GitHub stats
 
